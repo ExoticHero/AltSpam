@@ -42,14 +42,6 @@
         "BOT_TOKEN": {
             "description": "Fill your bot token here",
             "required": true
-        },
-        "HEROKU_APP_NAME": {
-            "description": "Required when you want to add SUDO_USERS using bot commands.",
-            "required": false
-        },
-        "HEROKU_API_KEY": {
-            "description": "Required when you want to add SUDO_USERS using bot commands.",
-            "required": false
         }
     }
   }

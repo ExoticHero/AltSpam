@@ -3,7 +3,7 @@ from aiohttp import ClientSession
 from AltSpam.Helpers import app, github, one, two, three, four, five
 
 
-__Version__ = "1.0.0"
+__Version__ = "1.1.0"
 
 boot = time.time()
 
